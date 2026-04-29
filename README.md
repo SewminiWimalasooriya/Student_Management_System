@@ -37,10 +37,10 @@ npm install
 
 ## Run the project
 
-# Run backend
-cd frontend
-npm start
+### Run backend
+- cd frontend
+- npm start
 
-# Run frontend
-cd backend
-npm run dev
+### Run frontend
+- cd backend
+- npm run dev
