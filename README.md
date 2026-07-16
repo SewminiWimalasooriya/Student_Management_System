@@ -71,6 +71,9 @@ npm run dev     # http://localhost:3000
 | GET    | /api/health                 | Health check            |
 
 ---
+## Interface
+<img width="1877" height="656" alt="image" src="https://github.com/user-attachments/assets/76d01c40-3229-4b8e-a54d-d2fb2e771703" />
+
 
 ## Tech Stack
 
